@@ -192,6 +192,10 @@ Answer the following questions based on your understanding of software engineeri
 17. What are some key responsibilities and challenges faced in managing software projects?
 
 
+yevfvwyirvfyiwvfyibarhowifbhiwbfihwbahiobvwhiobvojvdvwvehfwhEFBvjhvlhfvlw
+
+
+
 **Software Maintenance:**
 
 18. Define software maintenance and explain the different types of maintenance activities. 
